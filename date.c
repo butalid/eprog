@@ -13,11 +13,11 @@ int main(){
     {
         printf("january");
     }
-  if(month == 2)
+    if(month == 2)
     {
         printf("february");
     }
- if(month == 3)
+    if(month == 3)
     {
         printf("march");
     }
@@ -25,11 +25,11 @@ int main(){
     {
         printf("april");
     }
-     if(month == 5)
+    if(month == 5)
     {
         printf("may");
     }
-     if(month == 6)
+    if(month == 6)
     {
         printf("june");
     }
@@ -37,11 +37,11 @@ int main(){
     {
         printf("july");
     }
-  if(month == 8)
+    if(month == 8)
     {
         printf("august");
     }
-   if(month == 9)
+    if(month == 9)
     {
         printf("september");
     }
@@ -53,12 +53,12 @@ int main(){
     {
         printf("november");
     }
-     if(month == 12)
+    if(month == 12)
     {
         printf("december");
     }
      printf(" ");
-     if(day == 1)
+    if(day == 1)
     {
         printf("sunday");
     }
@@ -78,7 +78,7 @@ int main(){
     {
         printf("wednesday");
     }
-   if(day == 6)
+    if(day == 6)
     {
         printf("tuesday");
     }
@@ -87,6 +87,6 @@ int main(){
         printf("monday");
     }
     
-   printf(" .\n");
+   printf(" \n");
     }
  
