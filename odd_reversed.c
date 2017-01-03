@@ -4,7 +4,7 @@ int main(){
 	printf("odd numbers between 100 to 1\n");
 	for(counter=100;counter>0; counter--){
 		if(counter%2==1){
-			printf("%d",counter);
+			printf("%d\n",counter);
 	
 		}
 	
