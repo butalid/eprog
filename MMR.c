@@ -1,20 +1,13 @@
 #include<stdio.h>
-#include<conio.h>
-
+#include<math.h>
+#include<stdlib.h>
 int main(){
-	int num1,num2;
-	int difference;
-	
-	printf("Enter first player 1:");
-	scanf("%d",& num1);
-	printf("Enter second player 2:");
-	scanf("%d", &num2);
-	
-	difference=num1-num2;
-	
-	printf("\ndifference  = %d", difference);
-	
-	
-	getch();
-    return 0;
+    int a,b,c;
+    printf ("Enter MMR of p 1");{
+    scanf("%d", &a);
+}
+    printf ("Enter MMR of p 2");{
+    scanf("%d", &b);
+    printf("%d", c= abs(a-b));
+}
 }
