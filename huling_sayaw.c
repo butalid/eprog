@@ -11,7 +11,7 @@ int main()
     printf("\nintput: ");
     scanf("%d", &num);
     printf("output:%d\n", num%10);
-	printf("\nintput: ");
+    printf("\nintput: ");
     scanf("%d", &num);
     printf("output:%d\n", num%10);
 }
