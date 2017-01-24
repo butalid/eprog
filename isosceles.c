@@ -16,6 +16,5 @@
         }
         printf("\n");
     }
- 
     system("pause");
 } 
