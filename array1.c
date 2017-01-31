@@ -12,8 +12,8 @@ int main(){
 	average = sum/3;
 	printf("The 2nd grade is: %.2f\n", grades[1]);
 	if(average>=75){
-		printf("pass");
+		printf("passed");
 	}
 	else
-	printf("fail");
+	printf("failed");
 }
