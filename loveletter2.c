@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdio.h>
 #include <string.h>
-main(){
+int main(){
   char ch;
   FIILE *fp;
   fp=fopen("input.txt","r");
